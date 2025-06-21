@@ -1,0 +1,8 @@
+{
+    "url": "https://example.com",
+    "width": 1180,
+    "height": 2360,
+    "fullPage": false,
+    "headless": false,
+    "hideSelectors": [".iubenda-cs-container", ".iubenda-cs-overlay", ".toast-whatsapp"]
+}

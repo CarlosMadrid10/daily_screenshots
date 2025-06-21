@@ -1,0 +1,17 @@
+{
+  "name": "site-auto-printer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Carlos Madrid",
+  "license": "MIT",
+  "description": "Ferramenta feita para automatizar prints de páginas web que necessitem de comprovação para publicidades.",
+  "dependencies": {
+    "luxon": "^3.6.1",
+    "puppeteer": "^24.10.2"
+  }
+}
